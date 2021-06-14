@@ -1,0 +1,30 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {brazil}{}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{理论基础}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{1}{支撑项目的基础理论}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{2}{应用与实践}{5}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{TikZ 绘图与 figure环境}{6}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{Figure环境}{6}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{2}{TikZ 绘图}{7}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{表格数据}{9}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{代码实现}{11}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{1}{Algoritmos}{11}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{2}{Python}{12}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{3}{C 语言代码}{13}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{4}{Java}{14}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{5}{HTML}{15}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{参考文献}{16}{0}{5}
